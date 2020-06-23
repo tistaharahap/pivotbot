@@ -11,8 +11,8 @@ from typing import Dict
 from string import Template
 
 USER_AGENT = environ.get('USER_AGENT', 'PivotBot')
-TELEGRAM_TOKEN = environ.get('TELEGRAM_TOKEN', '472836801:AAGQgDhB0dg471Nvqc9RjqiXZJ4K2qnieHQ')
-TELEGRAM_USER_ID = environ.get('TELEGRAM_USER_ID', '-1001351609280')
+TELEGRAM_TOKEN = environ.get('TELEGRAM_TOKEN', '')
+TELEGRAM_USER_ID = environ.get('TELEGRAM_USER_ID', '')
 
 logger = get_logger()
 
