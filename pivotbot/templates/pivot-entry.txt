@@ -1,0 +1,20 @@
+
+<b>$exchange - $symbol</b>
+
+R4: <b>$r4</b>
+MP: $mpr3
+R3: <b>$r3</b>
+MP: $mpr2
+R2: <b>$r2</b>
+MP: $mpr1
+R1: <b>$r1</b>
+MP: $mpr0
+<b>PP: $pp</b>
+MP: $mps0
+S1: <b>$s1</b>
+MP: $mps1
+S2: <b>$s2</b>
+MP: $mps2
+S3: <b>$s3</b>
+MP: $mps3
+S4: <b>$s4</b>

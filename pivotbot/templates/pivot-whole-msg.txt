@@ -1,0 +1,9 @@
+<b>PivotBot</b>
+
+Here are some pivot points from various crypto exchanges.
+$pivots
+
+Written with 💚 by contributors
+<a href="https://github.com/tistaharahap/pivotbot">PivotBot</a>
+
+<i>$chucknorris</i>
