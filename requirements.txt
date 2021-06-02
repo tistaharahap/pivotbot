@@ -17,6 +17,6 @@ requests==2.24.0
 six==1.15.0
 telepot==12.7
 tzlocal==2.1
-urllib3==1.25.9
+urllib3==1.26.5
 uvloop==0.14.0
 yarl==1.1.0
